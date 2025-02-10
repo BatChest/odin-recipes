@@ -1,0 +1,15 @@
+h1 {
+  background-color: rgb(223, 84, 107);
+  text-align: center;
+  color: rgb(240, 231, 231);
+}
+
+a {
+  display: block;
+  text-align: center;
+  background-color: rgb(163, 218, 218);
+}
+
+html {
+  background-color: rgb(181, 150, 211);
+}

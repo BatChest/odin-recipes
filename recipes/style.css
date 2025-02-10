@@ -1,0 +1,17 @@
+html {
+  background-color: rgb(181, 150, 211);
+}
+
+body h1 {
+  color: rgb(240, 231, 231);
+}
+
+body {
+  color: rgb(27, 23, 23);
+}
+
+a {
+  display: block;
+  text-align: center;
+  background-color: aquamarine;
+}
